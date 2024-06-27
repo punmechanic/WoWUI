@@ -1,0 +1,64 @@
+
+NotEvenCloseDB = {
+["profileKeys"] = {
+["Thorthethot - Illidan"] = "Thorthethot - Illidan",
+["Kindabricked - Illidan"] = "Kindabricked - Illidan",
+["Arsonvoker - Illidan"] = "Arsonvoker - Illidan",
+["Arsonshouts - Illidan"] = "Arsonshouts - Illidan",
+["Mildfire - Illidan"] = "Mildfire - Illidan",
+["Meatywhack - Illidan"] = "Meatywhack - Illidan",
+["Widechungus - Illidan"] = "Widechungus - Illidan",
+["Garywarr - Illidan"] = "Garywarr - Illidan",
+["Arsonvoid - Illidan"] = "Arsonvoid - Illidan",
+["Gigagrip - Illidan"] = "Gigagrip - Illidan",
+["Buffswarrior - Illidan"] = "Buffswarrior - Illidan",
+["Arsontotem - Illidan"] = "Arsontotem - Illidan",
+["Larryhotter - Illidan"] = "Larryhotter - Illidan",
+["Arsonsigils - Illidan"] = "Arsonsigils - Illidan",
+["Brewless - Illidan"] = "Brewless - Illidan",
+["Frisbeechamp - Illidan"] = "Frisbeechamp - Illidan",
+["Arsontime - Illidan"] = "Arsontime - Illidan",
+["Tankspecwhen - Illidan"] = "Tankspecwhen - Illidan",
+},
+["profiles"] = {
+["Thorthethot - Illidan"] = {
+},
+["Kindabricked - Illidan"] = {
+},
+["Arsonvoker - Illidan"] = {
+},
+["Arsonshouts - Illidan"] = {
+},
+["Mildfire - Illidan"] = {
+},
+["Meatywhack - Illidan"] = {
+},
+["Widechungus - Illidan"] = {
+},
+["Garywarr - Illidan"] = {
+},
+["Arsonvoid - Illidan"] = {
+},
+["Gigagrip - Illidan"] = {
+},
+["Buffswarrior - Illidan"] = {
+},
+["Arsontotem - Illidan"] = {
+},
+["Larryhotter - Illidan"] = {
+},
+["Arsonsigils - Illidan"] = {
+["minimap"] = {
+["minimapPos"] = 188.7513768725691,
+},
+},
+["Brewless - Illidan"] = {
+},
+["Frisbeechamp - Illidan"] = {
+},
+["Arsontime - Illidan"] = {
+},
+["Tankspecwhen - Illidan"] = {
+},
+},
+}

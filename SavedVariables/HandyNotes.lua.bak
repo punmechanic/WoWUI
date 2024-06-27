@@ -1,0 +1,97 @@
+
+HandyNotesDB = {
+["profileKeys"] = {
+["Thorthethot - Illidan"] = "Thorthethot - Illidan",
+["Sigilslmao - Illidan"] = "Sigilslmao - Illidan",
+["Buffswarrior - Illidan"] = "Buffswarrior - Illidan",
+["Arsontotem - Illidan"] = "Arsontotem - Illidan",
+["Arsonshouts - Illidan"] = "Arsonshouts - Illidan",
+["Jenzern - Icecrown"] = "Jenzern - Icecrown",
+["Arsonvoid - Illidan"] = "Arsonvoid - Illidan",
+["Frisbeechamp - Illidan"] = "Frisbeechamp - Illidan",
+["Meatywhack - Illidan"] = "Meatywhack - Illidan",
+["Widechungus - Illidan"] = "Widechungus - Illidan",
+["Arsonsigils - Illidan"] = "Arsonsigils - Illidan",
+["Mildfire - Illidan"] = "Mildfire - Illidan",
+["Tankspecwhen - Illidan"] = "Tankspecwhen - Illidan",
+["Arsonvoker - Illidan"] = "Arsonvoker - Illidan",
+},
+["profiles"] = {
+["Thorthethot - Illidan"] = {
+},
+["Sigilslmao - Illidan"] = {
+},
+["Buffswarrior - Illidan"] = {
+},
+["Arsontotem - Illidan"] = {
+},
+["Arsonshouts - Illidan"] = {
+},
+["Jenzern - Icecrown"] = {
+},
+["Arsonvoid - Illidan"] = {
+},
+["Frisbeechamp - Illidan"] = {
+},
+["Meatywhack - Illidan"] = {
+},
+["Widechungus - Illidan"] = {
+},
+["Arsonsigils - Illidan"] = {
+},
+["Mildfire - Illidan"] = {
+},
+["Tankspecwhen - Illidan"] = {
+},
+["Arsonvoker - Illidan"] = {
+},
+},
+}
+HandyNotes_HandyNotesDB = {
+["profileKeys"] = {
+["Thorthethot - Illidan"] = "Thorthethot - Illidan",
+["Sigilslmao - Illidan"] = "Sigilslmao - Illidan",
+["Buffswarrior - Illidan"] = "Buffswarrior - Illidan",
+["Arsontotem - Illidan"] = "Arsontotem - Illidan",
+["Arsonshouts - Illidan"] = "Arsonshouts - Illidan",
+["Jenzern - Icecrown"] = "Jenzern - Icecrown",
+["Arsonvoid - Illidan"] = "Arsonvoid - Illidan",
+["Frisbeechamp - Illidan"] = "Frisbeechamp - Illidan",
+["Meatywhack - Illidan"] = "Meatywhack - Illidan",
+["Widechungus - Illidan"] = "Widechungus - Illidan",
+["Arsonsigils - Illidan"] = "Arsonsigils - Illidan",
+["Mildfire - Illidan"] = "Mildfire - Illidan",
+["Tankspecwhen - Illidan"] = "Tankspecwhen - Illidan",
+["Arsonvoker - Illidan"] = "Arsonvoker - Illidan",
+},
+["profiles"] = {
+["Thorthethot - Illidan"] = {
+},
+["Sigilslmao - Illidan"] = {
+},
+["Buffswarrior - Illidan"] = {
+},
+["Arsontotem - Illidan"] = {
+},
+["Arsonshouts - Illidan"] = {
+},
+["Jenzern - Icecrown"] = {
+},
+["Arsonvoid - Illidan"] = {
+},
+["Frisbeechamp - Illidan"] = {
+},
+["Meatywhack - Illidan"] = {
+},
+["Widechungus - Illidan"] = {
+},
+["Arsonsigils - Illidan"] = {
+},
+["Mildfire - Illidan"] = {
+},
+["Tankspecwhen - Illidan"] = {
+},
+["Arsonvoker - Illidan"] = {
+},
+},
+}

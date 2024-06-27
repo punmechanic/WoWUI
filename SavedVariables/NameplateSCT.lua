@@ -1,0 +1,31 @@
+
+NameplateSCTDB = {
+["profileKeys"] = {
+["Thorthethot - Illidan"] = "Default",
+["Shoutymctank - Illidan"] = "Default",
+["Icedchaitea - Illidan"] = "Default",
+["Arsonvoker - Illidan"] = "Default",
+["Hamfanner - Illidan"] = "Default",
+["Arsonshouts - Illidan"] = "Default",
+["Knaifuwaifu - Illidan"] = "Default",
+["Mildfire - Illidan"] = "Default",
+["Widechungus - Illidan"] = "Default",
+["Garywarr - Illidan"] = "Default",
+["Arsonvoid - Illidan"] = "Default",
+["Sigilslmao - Illidan"] = "Default",
+["Gigagrip - Illidan"] = "Default",
+["Nozdeeznuts - Illidan"] = "Default",
+["Arsontotem - Illidan"] = "Default",
+["Larryhotter - Illidan"] = "Default",
+["Brewless - Illidan"] = "Default",
+["Garyint - Illidan"] = "Default",
+["Tankspecwhen - Illidan"] = "Default",
+["Arsonsigils - Illidan"] = "Default",
+["Jenzern - Icecrown"] = "Default",
+["Frisbeechamp - Illidan"] = "Default",
+["Buffswarrior - Illidan"] = "Default",
+},
+["global"] = {
+["enabled"] = false,
+},
+}

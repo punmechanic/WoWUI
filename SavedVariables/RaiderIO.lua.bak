@@ -1,0 +1,31 @@
+
+RaiderIO_Config = {
+["profilePoint"] = {
+["y"] = 0,
+["x"] = -16.00000190734863,
+["point"] = "TOPLEFT",
+},
+["minimapIcon"] = {
+["minimapPos"] = 180,
+["showInCompartment"] = true,
+["hide"] = false,
+["lock"] = false,
+},
+}
+RaiderIO_LastCharacter = "us-Arsontime-illidan"
+RaiderIO_MissingCharacters = {
+["us-Haata-illidan"] = true,
+["us-Killzrez-area-52"] = true,
+["us-Ezbretza-blood-furnace"] = true,
+["us-Arsontime-illidan"] = true,
+["us-Krixen-illidan"] = true,
+["us-Tartarsaawce-bonechewer"] = true,
+["us-Neandus-illidan"] = true,
+}
+RaiderIO_MissingServers = {
+}
+RaiderIO_CachedRuns = nil
+RaiderIO_RWF = {
+}
+RaiderIO_CompletedReplays = {
+}

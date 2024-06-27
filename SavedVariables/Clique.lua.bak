@@ -1,0 +1,737 @@
+
+CliqueDB = nil
+CliqueDB3 = {
+["char"] = {
+["Thorthethot - Illidan"] = {
+["spec1_profileKey"] = "Thorthethot - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec3_profileKey"] = "Thorthethot - Illidan",
+["spec2_profileKey"] = "Thorthethot - Illidan",
+},
+["Kindabricked - Illidan"] = {
+["spec1_profileKey"] = "Kindabricked - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec2_profileKey"] = "Kindabricked - Illidan",
+["alerthidden"] = true,
+["spec3_profileKey"] = "Kindabricked - Illidan",
+},
+["Brickchan - Illidan"] = {
+["spec1_profileKey"] = "Brickchan - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec3_profileKey"] = "Brickchan - Illidan",
+["spec2_profileKey"] = "Brickchan - Illidan",
+},
+["Arsonshouts - Illidan"] = {
+["spec1_profileKey"] = "Arsonshouts - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec2_profileKey"] = "Arsonshouts - Illidan",
+["spec3_profileKey"] = "Arsonshouts - Illidan",
+},
+["Knaifuwaifu - Illidan"] = {
+["spec1_profileKey"] = "Knaifuwaifu - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec2_profileKey"] = "Knaifuwaifu - Illidan",
+["spec3_profileKey"] = "Knaifuwaifu - Illidan",
+},
+["Arsontime - Illidan"] = {
+["spec1_profileKey"] = "Arsontime - Illidan",
+["fastooc"] = false,
+["spec3_profileKey"] = "Arsontime - Illidan",
+["downclick"] = false,
+["specswap"] = false,
+["spec2_profileKey"] = "Arsontime - Illidan",
+},
+["Meatywhack - Illidan"] = {
+["spec1_profileKey"] = "Meatywhack - Illidan",
+["spec2_profileKey"] = "Meatywhack - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["spec3_profileKey"] = "Meatywhack - Illidan",
+["specswap"] = false,
+},
+["Sigilslmao - Illidan"] = {
+["spec1_profileKey"] = "Sigilslmao - Illidan",
+["spec2_profileKey"] = "Sigilslmao - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["specswap"] = false,
+},
+["Throwbricks - Illidan"] = {
+["spec1_profileKey"] = "Throwbricks - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec3_profileKey"] = "Throwbricks - Illidan",
+["spec2_profileKey"] = "Throwbricks - Illidan",
+},
+["Arsontotem - Illidan"] = {
+["spec1_profileKey"] = "Arsontotem - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec2_profileKey"] = "Arsontotem - Illidan",
+["spec3_profileKey"] = "Arsontotem - Illidan",
+},
+["Larryhotter - Illidan"] = {
+["spec1_profileKey"] = "Larryhotter - Illidan",
+["spec3_profileKey"] = "Larryhotter - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["spec4_profileKey"] = "Larryhotter - Illidan",
+["alerthidden"] = true,
+["specswap"] = false,
+["spec2_profileKey"] = "Larryhotter - Illidan",
+},
+["Arsonsigils - Illidan"] = {
+["spec1_profileKey"] = "Arsonsigils - Illidan",
+["spec2_profileKey"] = "Arsonsigils - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["specswap"] = false,
+},
+["Frisbeechamp - Illidan"] = {
+["spec1_profileKey"] = "Frisbeechamp - Illidan",
+["specswap"] = false,
+["downclick"] = false,
+["fastooc"] = false,
+["spec3_profileKey"] = "Frisbeechamp - Illidan",
+["spec2_profileKey"] = "Frisbeechamp - Illidan",
+},
+["Mildfire - Illidan"] = {
+["spec1_profileKey"] = "Mildfire - Illidan",
+["spec3_profileKey"] = "Mildfire - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["specswap"] = false,
+["spec2_profileKey"] = "Mildfire - Illidan",
+["spec4_profileKey"] = "Mildfire - Illidan",
+},
+["Tankspecwhen - Illidan"] = {
+["spec1_profileKey"] = "Tankspecwhen - Illidan",
+["spec3_profileKey"] = "Tankspecwhen - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["spec2_profileKey"] = "Tankspecwhen - Illidan",
+["specswap"] = false,
+},
+["Steakketchup - Illidan"] = {
+["alerthidden"] = true,
+},
+["Arsonvoker - Illidan"] = {
+["spec1_profileKey"] = "Arsonvoker - Illidan",
+["spec3_profileKey"] = "Arsonvoker - Illidan",
+["downclick"] = false,
+["fastooc"] = false,
+["specswap"] = false,
+["spec2_profileKey"] = "Arsonvoker - Illidan",
+},
+},
+["profileKeys"] = {
+["Thorthethot - Illidan"] = "Thorthethot - Illidan",
+["Kindabricked - Illidan"] = "Kindabricked - Illidan",
+["Brickchan - Illidan"] = "Brickchan - Illidan",
+["Arsonandimps - Illidan"] = "Arsonandimps - Illidan",
+["Arsonshouts - Illidan"] = "Arsonshouts - Illidan",
+["Knaifuwaifu - Illidan"] = "Knaifuwaifu - Illidan",
+["Craigzilla - Illidan"] = "Craigzilla - Illidan",
+["Frisbeechamp - Illidan"] = "Frisbeechamp - Illidan",
+["Meatywhack - Illidan"] = "Meatywhack - Illidan",
+["Widechungus - Illidan"] = "Widechungus - Illidan",
+["Garywarr - Illidan"] = "Garywarr - Illidan",
+["Arsonvoid - Illidan"] = "Arsonvoid - Illidan",
+["Sigilslmao - Illidan"] = "Sigilslmao - Illidan",
+["Arsonwarrior - Illidan"] = "Arsonwarrior - Illidan",
+["Steakketchup - Illidan"] = "Steakketchup - Illidan",
+["Buffswarrior - Illidan"] = "Buffswarrior - Illidan",
+["Arsontotem - Illidan"] = "Arsontotem - Illidan",
+["Tankspecwhen - Illidan"] = "Tankspecwhen - Illidan",
+["Larryhotter - Illidan"] = "Larryhotter - Illidan",
+["Gigagrip - Illidan"] = "Gigagrip - Illidan",
+["Brewless - Illidan"] = "Brewless - Illidan",
+["Jenzern - Icecrown"] = "Jenzern - Icecrown",
+["Arsontime - Illidan"] = "Arsontime - Illidan",
+["Throwbricks - Illidan"] = "Throwbricks - Illidan",
+["Arsonsigils - Illidan"] = "Arsonsigils - Illidan",
+["Mildfire - Illidan"] = "Mildfire - Illidan",
+["Arsonvoker - Illidan"] = "Arsonvoker - Illidan",
+},
+["profiles"] = {
+["Thorthethot - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Kindabricked - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Brickchan - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsonandimps - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsonshouts - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Knaifuwaifu - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Craigzilla - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "CTRL-BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "CTRL-BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+{
+["type"] = "spell",
+["key"] = "BUTTON3",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 135949,
+["spell"] = "Cleanse",
+},
+{
+["type"] = "spell",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 133192,
+["spell"] = "Word of Glory",
+},
+{
+["type"] = "spell",
+["key"] = "SHIFT-BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 135907,
+["spell"] = "Flash of Light",
+},
+},
+},
+["Frisbeechamp - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Meatywhack - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Widechungus - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Garywarr - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsonvoid - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Sigilslmao - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsonwarrior - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Steakketchup - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+{
+["type"] = "spell",
+["key"] = "SHIFT-BUTTON1",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 135949,
+["spell"] = "Cleanse",
+},
+},
+},
+["Buffswarrior - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsontotem - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Tankspecwhen - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Larryhotter - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Gigagrip - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Brewless - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Jenzern - Icecrown"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsontime - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Throwbricks - Illidan"] = {
+["bindings"] = {
+{
+["sets"] = {
+["default"] = true,
+},
+["type"] = "target",
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+{
+["type"] = "spell",
+["key"] = "SHIFT-BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 133192,
+["spell"] = "Word of Glory",
+},
+{
+["type"] = "spell",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+["icon"] = 135949,
+["spell"] = "Cleanse",
+},
+},
+},
+["Arsonsigils - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Mildfire - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+["Arsonvoker - Illidan"] = {
+["bindings"] = {
+{
+["type"] = "target",
+["sets"] = {
+["default"] = true,
+},
+["key"] = "BUTTON1",
+["unit"] = "mouseover",
+},
+{
+["type"] = "menu",
+["key"] = "BUTTON2",
+["sets"] = {
+["default"] = true,
+},
+},
+},
+},
+},
+}

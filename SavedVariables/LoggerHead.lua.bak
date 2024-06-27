@@ -1,0 +1,200 @@
+
+LoggerHeadDB = {
+["profileKeys"] = {
+["Thorthethot - Illidan"] = "Default",
+["Shoutymctank - Illidan"] = "Default",
+["Icedchaitea - Illidan"] = "Default",
+["Brickchan - Illidan"] = "Default",
+["Arsonandimps - Illidan"] = "Default",
+["Arsonshouts - Illidan"] = "Default",
+["Knaifuwaifu - Illidan"] = "Default",
+["Craigzilla - Illidan"] = "Default",
+["Arsontime - Illidan"] = "Default",
+["Meatywhack - Illidan"] = "Default",
+["Garywarr - Illidan"] = "Default",
+["Impydave - Illidan"] = "Default",
+["Arsonwarrior - Illidan"] = "Default",
+["Sigilslmao - Illidan"] = "Default",
+["Gigagrip - Illidan"] = "Default",
+["Frisbeechamp - Illidan"] = "Default",
+["Nozdeeznuts - Illidan"] = "Default",
+["Steakketchup - Illidan"] = "Default",
+["Jenzern - Icecrown"] = "Default",
+["Larryhotter - Illidan"] = "Default",
+["Hamfanner - Illidan"] = "Default",
+["Brewless - Illidan"] = "Default",
+["Garyint - Illidan"] = "Default",
+["Arsonsigils - Illidan"] = "Default",
+["Throwbricks - Illidan"] = "Default",
+["Buffswarrior - Illidan"] = "Default",
+["Kindabricked - Illidan"] = "Default",
+["Mildfire - Illidan"] = "Default",
+},
+["profiles"] = {
+["Default"] = {
+["log"] = {
+["party"] = {
+["Mogu'shan Palace"] = {
+},
+["Court of Stars"] = {
+[24] = false,
+},
+["Darkheart Thicket"] = {
+[24] = false,
+[23] = false,
+[8] = true,
+},
+["Grimrail Depot"] = {
+[24] = false,
+},
+["Dawn of the Infinite"] = {
+[8] = true,
+[2] = false,
+[23] = false,
+},
+["The Nokhud Offensive"] = {
+[23] = true,
+[8] = true,
+},
+["Eye of Azshara"] = {
+true,
+[24] = false,
+},
+["The Everbloom"] = {
+[8] = true,
+[2] = false,
+[23] = false,
+},
+["Waycrest Manor"] = {
+[23] = false,
+[8] = true,
+},
+["Temple of the Jade Serpent"] = {
+[24] = false,
+},
+["The Escape from Durnholde"] = {
+false,
+},
+["Auchindoun: Mana-Tombs"] = {
+[24] = false,
+},
+["The Azure Vault"] = {
+[23] = false,
+[8] = false,
+},
+["Brackenhide Hollow"] = {
+[23] = false,
+[8] = true,
+},
+["The Culling of Stratholme"] = {
+false,
+},
+["Bloodmaul Slag Mines"] = {
+[24] = false,
+},
+["Vault of the Wardens"] = {
+[24] = false,
+},
+["Gate of the Setting Sun"] = {
+[24] = false,
+},
+["Magisters' Terrace"] = {
+[24] = false,
+},
+["Throne of the Tides"] = {
+[23] = false,
+[8] = true,
+},
+["Scholomance"] = {
+[24] = false,
+},
+["Algeth'ar Academy"] = {
+false,
+[23] = true,
+[8] = true,
+},
+["Black Rook Hold"] = {
+[8] = true,
+[23] = false,
+},
+["Auchindoun"] = {
+[24] = false,
+},
+["Uldaman: Legacy of Tyr"] = {
+[23] = true,
+[8] = true,
+},
+["Shadowmoon Burial Grounds"] = {
+[24] = false,
+},
+["Wailing Caverns"] = {
+false,
+},
+["Atal'Dazar"] = {
+[23] = true,
+[8] = true,
+},
+["Hellfire Citadel: Ramparts"] = {
+false,
+},
+["Coilfang: The Slave Pens"] = {
+false,
+},
+["The MOTHERLODE!!"] = {
+[23] = false,
+},
+["Razorfen Kraul"] = {
+false,
+},
+["Tempest Keep: The Botanica"] = {
+[24] = false,
+},
+["Auchindoun: Sethekk Halls"] = {
+false,
+},
+["Coilfang: The Underbog"] = {
+false,
+[24] = false,
+},
+["Neltharion's Lair"] = {
+[24] = false,
+},
+["Hellfire Citadel: The Blood Furnace"] = {
+false,
+[24] = false,
+},
+["Stormstout Brewery"] = {
+[24] = false,
+},
+["Ruby Life Pools"] = {
+[23] = true,
+[8] = true,
+},
+["Neltharus"] = {
+[8] = true,
+[2] = false,
+[23] = true,
+},
+["Halls of Infusion"] = {
+[23] = true,
+[8] = true,
+},
+},
+["raid"] = {
+["Amirdrassil, the Dream's Hope"] = {
+[14] = true,
+[16] = true,
+[15] = true,
+},
+["Molten Core"] = {
+[9] = false,
+},
+},
+},
+["version"] = 3,
+["minimap"] = {
+["minimapPos"] = 336.3383964630521,
+},
+},
+},
+}
