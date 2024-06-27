@@ -1,9 +1,9 @@
 
 Blizzard_PTRIssueReporter_Saved = {
-["y"] = 515.0001220703125,
+["y"] = 699.9999389648438,
 ["TotalTimePlayedThisChar"] = {
 ["Granautismo"] = 525,
-["Arsontime"] = 3337,
+["Arsontime"] = 3363,
 ["Petrdinklage"] = 30,
 ["Yarrson"] = 9,
 ["Peterdinklag"] = 117,
@@ -14,5 +14,5 @@ Blizzard_PTRIssueReporter_Saved = {
 ["Astroglide"] = 6,
 },
 ["sawHighlight"] = true,
-["x"] = 2601.249755859375,
+["x"] = 2655.416259765625,
 }

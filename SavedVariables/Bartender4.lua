@@ -21,7 +21,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -48,7 +48,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -84,7 +84,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -138,7 +138,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -165,25 +165,7 @@ Bartender4DB = {
 ["point"] = "TOP",
 },
 },
-["Arsonwarrior - Illidan"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
-},
-},
-["Arsontotem - Illidan"] = {
-["enabled"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 29,
-["x"] = -289.5,
-["point"] = "BOTTOM",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -193,6 +175,24 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["enabled"] = true,
+["version"] = 3,
+["position"] = {
+["y"] = 29,
+["x"] = -289.5,
+["point"] = "BOTTOM",
+},
+},
+["Arsontotem - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -255,7 +255,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -282,7 +282,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
@@ -309,7 +309,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -330,7 +330,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -358,7 +358,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -400,7 +400,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -421,21 +421,7 @@ Bartender4DB = {
 ["x"] = -417.550537109375,
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 40.5,
-["x"] = -271,
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 40.5,
-["x"] = -271,
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -443,6 +429,20 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -271,
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 40.5,
+["x"] = -271,
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -491,7 +491,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -512,7 +512,7 @@ Bartender4DB = {
 ["x"] = -271,
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 40.5,
@@ -526,9 +526,9 @@ Bartender4DB = {
 ["Thorthethot - Illidan"] = {
 ["actionbars"] = {
 {
+["WoW10Layout"] = true,
 ["version"] = 3,
 ["mouseover"] = true,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 49,
 ["x"] = -228,
@@ -706,17 +706,17 @@ Bartender4DB = {
 },
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
@@ -964,17 +964,17 @@ Bartender4DB = {
 },
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["version"] = 3,
-["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
@@ -1308,22 +1308,22 @@ Bartender4DB = {
 },
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998931884766,
 ["x"] = -284.4995727539063,
@@ -1354,8 +1354,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1363,8 +1363,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1824,12 +1824,12 @@ Bartender4DB = {
 },
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["actionbars"] = {
 {
 ["showgrid"] = true,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
@@ -1838,8 +1838,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998931884766,
 ["x"] = -284.4995727539063,
@@ -1870,8 +1870,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -1879,8 +1879,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -1999,9 +1999,9 @@ Bartender4DB = {
 ["Sigilslmao - Illidan"] = {
 ["actionbars"] = {
 {
+["mouseover"] = true,
 ["WoW10Layout"] = true,
 ["version"] = 3,
-["mouseover"] = true,
 ["position"] = {
 ["y"] = 49,
 ["x"] = -228,
@@ -2099,7 +2099,7 @@ Bartender4DB = {
 },
 },
 },
-["Arsonwarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -2107,181 +2107,9 @@ Bartender4DB = {
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["showgrid"] = true,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = -223.9998931884766,
-["x"] = -284.4995727539063,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Arsontotem - Illidan"] = {
-["actionbars"] = {
-{
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = -223.9998931884766,
-["x"] = -284.4995727539063,
-["point"] = "CENTER",
-},
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -54,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["flyoutDirection"] = "LEFT",
-["position"] = {
-["y"] = 193,
-["x"] = -104,
-["point"] = "RIGHT",
-},
-["rows"] = 12,
-["WoW10Layout"] = true,
-["version"] = 3,
-},
-{
-["enabled"] = false,
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 184,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["version"] = 3,
-["WoW10Layout"] = true,
-["position"] = {
-["y"] = 133,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-{
-["WoW10Layout"] = true,
-},
-[14] = {
-["WoW10Layout"] = true,
-},
-[13] = {
-["WoW10Layout"] = true,
-},
-[15] = {
-["WoW10Layout"] = true,
-},
-},
-},
-["Buffswarrior - Illidan"] = {
-["actionbars"] = {
-{
-["showgrid"] = true,
-["WoW10Layout"] = true,
-["version"] = 3,
-["position"] = {
-["y"] = 82,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
 },
 {
 ["enabled"] = false,
@@ -2358,6 +2186,178 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["actionbars"] = {
+{
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["WoW10Layout"] = true,
+["showgrid"] = true,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998931884766,
+["x"] = -284.4995727539063,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["actionbars"] = {
+{
+["showgrid"] = true,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 82,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = -223.9998931884766,
+["x"] = -284.4995727539063,
+["point"] = "CENTER",
+},
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -54,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["flyoutDirection"] = "LEFT",
+["position"] = {
+["y"] = 193,
+["x"] = -104,
+["point"] = "RIGHT",
+},
+["rows"] = 12,
+["WoW10Layout"] = true,
+["version"] = 3,
+},
+{
+["enabled"] = false,
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 184,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["version"] = 3,
+["WoW10Layout"] = true,
+["position"] = {
+["y"] = 133,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+{
+["WoW10Layout"] = true,
+},
+[14] = {
+["WoW10Layout"] = true,
+},
+[13] = {
+["WoW10Layout"] = true,
+},
+[15] = {
+["WoW10Layout"] = true,
+},
+},
+},
+["Arsontotem - Illidan"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -2790,9 +2790,9 @@ Bartender4DB = {
 ["Default"] = {
 ["actionbars"] = {
 {
+["version"] = 3,
 ["mouseover"] = true,
 ["WoW10Layout"] = true,
-["version"] = 3,
 ["position"] = {
 ["scale"] = 0.8,
 ["x"] = -228,
@@ -2976,7 +2976,7 @@ Bartender4DB = {
 },
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["actionbars"] = {
 {
 ["position"] = {
@@ -2984,14 +2984,14 @@ Bartender4DB = {
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = -223.9998931884766,
 ["x"] = -284.4995727539063,
@@ -3022,8 +3022,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -3031,8 +3031,8 @@ Bartender4DB = {
 },
 },
 {
-["WoW10Layout"] = true,
 ["version"] = 3,
+["WoW10Layout"] = true,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -3065,7 +3065,6 @@ Bartender4DB = {
 ["Arsontime - These Go To Eleven"] = {
 ["actionbars"] = {
 {
-["showgrid"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = 82,
@@ -3075,6 +3074,7 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 },
 {
+["enabled"] = false,
 ["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998931884766,
@@ -3139,7 +3139,6 @@ Bartender4DB = {
 ["WoW10Layout"] = true,
 },
 [13] = {
-["enabled"] = true,
 ["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998931884766,
@@ -3239,22 +3238,22 @@ Bartender4DB = {
 },
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["actionbars"] = {
 {
+["showgrid"] = true,
+["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 82,
 ["x"] = -285,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["WoW10Layout"] = true,
-["showgrid"] = true,
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = -223.9998931884766,
 ["x"] = -284.4995727539063,
@@ -3285,8 +3284,8 @@ Bartender4DB = {
 },
 {
 ["enabled"] = false,
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 184,
 ["x"] = -285,
@@ -3294,8 +3293,8 @@ Bartender4DB = {
 },
 },
 {
-["version"] = 3,
 ["WoW10Layout"] = true,
+["version"] = 3,
 ["position"] = {
 ["y"] = 133,
 ["x"] = -285,
@@ -3352,7 +3351,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3376,7 +3375,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3408,7 +3407,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3456,7 +3455,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3480,23 +3479,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 287.0000305175781,
-["x"] = -63.49981689453125,
-["point"] = "BOTTOM",
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 287.0000305175781,
-["x"] = -63.49981689453125,
-["point"] = "BOTTOM",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3505,6 +3488,22 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 287.0000305175781,
+["x"] = -63.49981689453125,
+["point"] = "BOTTOM",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 287.0000305175781,
+["x"] = -63.49981689453125,
+["point"] = "BOTTOM",
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3560,7 +3559,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3584,7 +3583,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 287.0000305175781,
@@ -3612,7 +3611,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3636,7 +3635,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3668,7 +3667,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3716,7 +3715,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3740,23 +3739,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 34,
-["x"] = -229,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 34,
-["x"] = -229,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3765,6 +3748,22 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 34,
+["x"] = -229,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 34,
+["x"] = -229,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3820,7 +3819,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3844,7 +3843,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 34,
@@ -3872,7 +3871,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -3896,7 +3895,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -3928,7 +3927,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -3976,7 +3975,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -4000,23 +3999,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 74,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 74,
-["x"] = -212,
-["point"] = "BOTTOMRIGHT",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -4025,6 +4008,22 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 74,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 74,
+["x"] = -212,
+["point"] = "BOTTOMRIGHT",
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -4080,7 +4079,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -4104,7 +4103,7 @@ Bartender4DB = {
 ["point"] = "BOTTOMRIGHT",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 74,
@@ -4135,15 +4134,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 ["Kindabricked - Illidan"] = {
 ["enabled"] = true,
@@ -4165,15 +4164,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Arsonshouts - Illidan"] = {
 ["enabled"] = true,
@@ -4205,15 +4204,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
+["version"] = 3,
+["artLayout"] = "MODERN",
 },
 ["Meatywhack - Illidan"] = {
 ["enabled"] = true,
@@ -4265,7 +4264,7 @@ Bartender4DB = {
 ["version"] = 3,
 ["artLayout"] = "MODERN",
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["enabled"] = true,
 ["artLayout"] = "MODERN",
 ["version"] = 3,
@@ -4294,7 +4293,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonwarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -4303,28 +4302,28 @@ Bartender4DB = {
 },
 ["version"] = 3,
 ["artLayout"] = "MODERN",
-},
-["Arsontotem - Illidan"] = {
-["enabled"] = true,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
-["version"] = 3,
-["artLayout"] = "MODERN",
-},
-["Buffswarrior - Illidan"] = {
-["enabled"] = true,
-["artLayout"] = "MODERN",
-["version"] = 3,
-["position"] = {
-["y"] = 87,
-["x"] = -288.5,
-["point"] = "BOTTOM",
-},
 },
 ["Steakketchup - Illidan"] = {
+["enabled"] = true,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+["version"] = 3,
+["artLayout"] = "MODERN",
+},
+["Nozdeeznuts - Illidan"] = {
+["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
+["position"] = {
+["y"] = 87,
+["x"] = -288.5,
+["point"] = "BOTTOM",
+},
+},
+["Arsontotem - Illidan"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -4393,7 +4392,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["enabled"] = true,
 ["position"] = {
 ["y"] = 87,
@@ -4422,15 +4421,15 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["enabled"] = true,
+["artLayout"] = "MODERN",
+["version"] = 3,
 ["position"] = {
 ["y"] = 87,
 ["x"] = -288.5,
 ["point"] = "BOTTOM",
 },
-["version"] = 3,
-["artLayout"] = "MODERN",
 },
 },
 },
@@ -4455,7 +4454,7 @@ Bartender4DB = {
 ["scale"] = 1,
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4479,7 +4478,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4512,7 +4511,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4561,7 +4560,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4588,23 +4587,7 @@ Bartender4DB = {
 ["scale"] = 0.8500000238418579,
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = -14.99991607666016,
-["x"] = -82.49993896484375,
-["point"] = "CENTER",
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = -14.99991607666016,
-["x"] = -82.49993896484375,
-["point"] = "CENTER",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4613,6 +4596,22 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99991607666016,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = -14.99991607666016,
+["x"] = -82.49993896484375,
+["point"] = "CENTER",
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4671,7 +4670,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4695,7 +4694,7 @@ Bartender4DB = {
 ["point"] = "CENTER",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = -14.99991607666016,
@@ -4723,7 +4722,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4747,7 +4746,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4779,7 +4778,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4827,7 +4826,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4851,23 +4850,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 168,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 168,
-["x"] = -285,
-["point"] = "BOTTOM",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4876,6 +4859,22 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 168,
+["x"] = -285,
+["point"] = "BOTTOM",
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4931,7 +4930,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4955,7 +4954,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 168,
@@ -4983,7 +4982,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5007,7 +5006,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5039,7 +5038,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5087,7 +5086,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5111,23 +5110,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsonwarrior - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
-},
-},
-["Arsontotem - Illidan"] = {
-["version"] = 3,
-["position"] = {
-["y"] = 153,
-["x"] = -337,
-["point"] = "BOTTOM",
-},
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5136,6 +5119,22 @@ Bartender4DB = {
 },
 },
 ["Steakketchup - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Nozdeeznuts - Illidan"] = {
+["version"] = 3,
+["position"] = {
+["y"] = 153,
+["x"] = -337,
+["point"] = "BOTTOM",
+},
+},
+["Arsontotem - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5191,7 +5190,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5215,7 +5214,7 @@ Bartender4DB = {
 ["point"] = "BOTTOM",
 },
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["version"] = 3,
 ["position"] = {
 ["y"] = 153,
@@ -5277,7 +5276,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Arsonandimps - Illidan"] = {
+["Hamfanner - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5292,7 +5291,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Hamfanner - Illidan"] = {
+["Arsonandimps - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5312,7 +5311,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Mildfire - Illidan"] = {
+["Arsontime - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5342,7 +5341,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Nozdeeznuts - Illidan"] = {
+["Buffswarrior - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5361,22 +5360,22 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Arsonwarrior - Illidan"] = {
-["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
-["outofrange"] = "hotkey",
-},
-["Arsontotem - Illidan"] = {
-["focuscastmodifier"] = false,
-["blizzardVehicle"] = true,
-["outofrange"] = "hotkey",
-},
-["Buffswarrior - Illidan"] = {
+["Gigagrip - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
 ["Steakketchup - Illidan"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Nozdeeznuts - Illidan"] = {
+["focuscastmodifier"] = false,
+["blizzardVehicle"] = true,
+["outofrange"] = "hotkey",
+},
+["Arsontotem - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5415,7 +5414,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Gigagrip - Illidan"] = {
+["Arsonwarrior - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
@@ -5433,7 +5432,7 @@ Bartender4DB = {
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
 },
-["Arsontime - Illidan"] = {
+["Mildfire - Illidan"] = {
 ["focuscastmodifier"] = false,
 ["blizzardVehicle"] = true,
 ["outofrange"] = "hotkey",
